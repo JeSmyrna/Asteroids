@@ -1,1 +1,3 @@
 #gitgnore for Asteroids project
+venv/
+__pycache__/
